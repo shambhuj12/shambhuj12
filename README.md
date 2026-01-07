@@ -26,8 +26,7 @@ I am a Junior Backend Developer
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="swagger" width="40" height="40"/> </a> 
-  <a href="https://www.openai.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/openai/412991" alt="openai" width="40" height="40"/> </a> 
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/jsonwebtoken/000000" alt="jwt" width="40" height="40"/> </a> 
+  <a href="https://www.openai.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/openai/412991" alt="openai" width="40" height="40"/> </a>
   <a href="https://typeorm.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/typeorm/FE0902" alt="typeorm" width="40" height="40"/> </a></a> 
   <a href="https://github.com/pinojs/pino" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/pino/73398D" alt="pino" width="40" height="40"/> </a>
 </p>
