@@ -39,7 +39,4 @@ I am a Junior Backend Developer
 </p>
 
 ###
-<a href="http://www.github.com/shambhuj12"><img src="https://github-readme-stats.vercel.app/api?username=shambhuj12&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="shambhuj12's GitHub stats" /></a>
-
-<a href="http://www.github.com/shambhuj12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shambhuj12&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shambhuj12)](https://git.io/streak-stats)
