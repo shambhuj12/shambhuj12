@@ -1,9 +1,6 @@
 Hi 👋 
 ======================================
 
-I am a Junior Backend Developer
---------------------
-
 🚀 I'm currently working as a Junior Backend Developer, building scalable backend systems using NestJS, TypeScript, and modern cloud technologies.
 
 
