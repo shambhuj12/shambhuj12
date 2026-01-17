@@ -6,6 +6,6 @@ Hi 👋
 
 * 🌍  Pune, Maharashtra, India.
 * 🎓  B.Tech graduate in Computer Science and Engineering from VIT, Chennai.
-* ✉️  You can contact me at [shambhujagtapcoc@gmail.com](mailto:shambhujagtapcoc@gmail.com)
+* ✉️  You can contact me at : shambhujagtapcoc@gmail.com
 * 🧠  I love to learn & build things, currently working with Backend Development, APIs, and Cloud Services.
 * ⚡  Fun fact: I am immune to corporate politics.
