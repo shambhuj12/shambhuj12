@@ -9,4 +9,6 @@ Hi 👋
 * ✉️  You can contact me at : shambhujagtapcoc@gmail.com
 * 🧠  I love to learn & build things, currently working with Backend Development and APIs.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shambhuj12&show_icons=true)
+
 ![Happy Game GIF by Scaler](https://github.com/user-attachments/assets/3e519569-1476-45eb-8f60-ffaa9e817651)
